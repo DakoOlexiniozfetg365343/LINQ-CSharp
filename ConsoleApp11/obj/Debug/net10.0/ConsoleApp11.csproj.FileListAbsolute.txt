@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\bin\Debug\net10.0\ConsoleApp11.exe
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\bin\Debug\net10.0\ConsoleApp11.deps.json
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\bin\Debug\net10.0\ConsoleApp11.runtimeconfig.json
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\bin\Debug\net10.0\ConsoleApp11.dll
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\bin\Debug\net10.0\ConsoleApp11.pdb
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.AssemblyInfo.cs
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.dll
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\refint\ConsoleApp11.dll
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.pdb
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ConsoleApp11.genruntimeconfig.cache
+D:\Programming\C#\less2\ConsoleApp11\ConsoleApp11\obj\Debug\net10.0\ref\ConsoleApp11.dll
