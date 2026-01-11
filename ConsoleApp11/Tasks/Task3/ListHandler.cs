@@ -35,12 +35,7 @@ public class ListHandler
 
     private static int GetSumOfNumber(int number)
     {
-        var total = 0;
         var stringNum = number.ToString();
-        foreach (var n in stringNum){
-            int newNumber = n - '0';
-            total += newNumber;
-        }
-        return total;
+        return stringNum.Sum(n => n - '0');
     }
 }
